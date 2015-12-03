@@ -1,0 +1,31 @@
+td
+{
+	border: 1px solid black;
+}
+table
+{
+	border-collapse: collapse;
+}
+h1
+{
+	border: 1px double black;
+	border-radius: 15px;
+	text-align:center;
+	width:450px;
+	margin:auto;	
+}
+#wrapper{
+	margin: auto;
+	width:1024px;
+	color:black;	
+}
+body
+{
+	background-image:radial-gradient(white, black);
+	
+}
+
+#header
+{
+	padding:5px;
+}

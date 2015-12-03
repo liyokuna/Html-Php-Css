@@ -1,0 +1,1 @@
+Here , i creat a madlibs, it uses one site to display the input and another site to process the input.

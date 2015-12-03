@@ -1,0 +1,19 @@
+#wrapper{
+	margin: auto;
+	width:1024px;
+	background-color: rgb(155,157,174);
+	color:black;
+	border: 1px grey groove;
+	padding:10px;
+}
+table, th, td {
+   border: 1px solid white;
+}
+td{
+   padding-left: 1em;
+}
+body
+{
+	background-image:radial-gradient(white, black);
+	
+}

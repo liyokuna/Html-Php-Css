@@ -1,0 +1,2 @@
+Here, i made a multiplication table in order to use array fuenltly.
+J'ai crée une table de multiplication pour être à l'aise avec l'utilisation des tableaux en html
